@@ -1,0 +1,32 @@
+_repo: Seek-and-Findor-The-Adventures-of-a-Smart-Boy_27666
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27666-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William Taylor
+    - Adams, William T. (William Taylor)
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_issued: '2008-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+title: Seek and Find; or, The Adventures of a Smart Boy
+url: http://www.gutenberg.org/ebooks/27666
